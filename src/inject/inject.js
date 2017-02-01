@@ -16,9 +16,8 @@
 	    if (document.readyState === "complete") {
 		    clearInterval(readyStateCheckInterval);
 
-		    htmlreplace("SYSTEMD", "BUTTS", 'g');
-		    htmlreplace("System[dD]", "Butts", 'g');
-		    htmlreplace("systemd", "butts", 'gi');
+		    htmlreplace("Plone", "Superlecker", 'g');
+		    htmlreplace("plone", "superlecker", 'gi');
 	    }
     }, 10);
 })();
